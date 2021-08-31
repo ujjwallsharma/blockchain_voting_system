@@ -7,7 +7,7 @@ Blockchain is a shared, immutable Ledger that facilitates the process of digital
 network. One of the most famous term "Cryptocurrency" is totally based on Blockchain Technology. Blockchain technology makes cryptocurrencies work just like 
 the internet makes email possible. Blockchain as the name suggests, is a chain of immutable blocks. Now the question arises, What is a Block ?  
 
-###Block  
+### Block  
 A block consists of the data, present HASH value, HASH of the previous block.  
 
 * Data : Details such as sender/reciever/amount of money etc.  
@@ -34,7 +34,7 @@ C language is used to implement the dummy blockchain voting system.
 Blockchain is very easy in its core.  
 It is formed by well known data structure LINKED LIST.  
 
-##Design  
+## Design  
 
 Voting system is designed in such a way that each vote will represent a block.  
 Each block will contain the following details :  
