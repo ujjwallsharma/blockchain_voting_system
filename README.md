@@ -45,6 +45,17 @@ Each block will contain the following details :
 
 This has been implemented using the doubly-linked list data structure.  
 
+## Compilation  
+```  
+make  
+```  
+
+## Execution  
+```  
+./blockchain  
+```  
+
+
 ## Resources  
   
 In-depth details about blockchain technology - [Wikipedia](https://en.wikipedia.org/wiki/Blockchain).  
